@@ -46,9 +46,6 @@ milan@milan-virtual-machine:~$ sudo /etc/init.d/snmpd restart
 ```
 
 milan@milan-virtual-machine:~$ snmpwalk -v 1 -c public -O e milan-virtual-machine
-
-```
-
 milan@milan-virtual-machine:~$ sudo apt-get install snmp
 
 ```
